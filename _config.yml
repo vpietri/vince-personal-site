@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Vincent Pietri
-title: Technical Expert
+title: Expert technique
 email: vincent.pietri@gmail.com
 website: www.vincent-pietri.fr
 
@@ -45,10 +45,14 @@ linkedin_username: vpietri
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A mon propos
+about_title: Qui suis-je ?
 about_profile_image: images/Vincent.Pietri.Real.WB.png
 about_content: | # this will include new lines to allow paragraphs
-  Expert technique en developement de sites eCommerce sur Magento 2, j'apprecie le beau code mais n'hésite pas à le désacraliser pour privilégier la performance.
+  Dans l'informatique depuis, plus de 20 ans, j'ai assisté aux premiers pas de Google, l'arrivée du Web 2.0, et suivi les évolutions de php.
+  Aux travers de mes expériences, j'ai apréhender l'évolution du Web au travers de la "Business intelligence, le eProcurement et dernièrement le eCommerce.
+
+  A présent, expert technique sur Magento 2, j'apprecie de travailler sur de nouveaux frameworks mais reste focus sur la performance et l'expérience utilisateur 
+  quitte à dénormaliser de l'algo trop synthétique.
 
 content:
 #  - title: Projects # Title for the section
